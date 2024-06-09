@@ -1,2 +1,28 @@
-.stylef {color: red;}
+* {padding: 0; margin: 0;}
+.stylef {color: red;
+                                    font-family: "Poppins", sans-serif;
+                                    font-weight: 800;
+                                    font-style: normal;
+                                  }
 img.trash{height: 20px; width: 20px}
+
+header {
+    padding: 30px 5px;
+    text-align: center;
+}
+
+footer {
+    padding: 30px 5px;
+}
+
+.classInputAdd {padding: 7px 5px;
+                 width: 200px;}
+
+.classButtonAdd {padding: 2px 2px;
+                     width: 100px; font-size: 22px; cursor: pointer}
+
+.classAdd {display: flex; gap: 10px}
+
+.listStyle {padding: 20px 20px 5px; font-size: 25px}
+
+.complete {text-decoration: line-through;}
