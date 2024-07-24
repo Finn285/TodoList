@@ -1,1 +1,1 @@
-This is ToDo website. You can do mew marks and delete them.
+This is ToDo website. You can do new marks and delete them.
